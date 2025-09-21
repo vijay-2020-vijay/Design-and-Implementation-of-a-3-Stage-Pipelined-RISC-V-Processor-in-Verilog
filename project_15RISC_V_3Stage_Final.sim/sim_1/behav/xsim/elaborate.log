@@ -1,0 +1,49 @@
+Vivado Simulator v2024.2.0
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: D:/Vivado/2024.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot test_top_tb_behav xil_defaultlib.test_top_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 5 for port 'csr_uimm_in' [D:/verilog_11/project_15RISC_V_3Stage_Final/project_15RISC_V_3Stage_Final.srcs/sources_1/new/RISCV_32I_TOP.v:254]
+WARNING: [VRFC 10-3091] actual bit length 3 differs from formal bit length 2 for port 'funct3_in' [D:/verilog_11/project_15RISC_V_3Stage_Final/project_15RISC_V_3Stage_Final.srcs/sources_1/new/RISCV_32I_TOP.v:397]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.pc
+Compiling module xil_defaultlib.Reg_bank_1
+Compiling module xil_defaultlib.instruction_mux
+Compiling module xil_defaultlib.imm_generetor
+Compiling module xil_defaultlib.imm_adder
+Compiling module xil_defaultlib.branch_unit
+Compiling module xil_defaultlib.msrv32_integer_file
+Compiling module xil_defaultlib.write_enable_gen
+Compiling module xil_defaultlib.msrv32_decoder
+Compiling module xil_defaultlib.machine_control
+Compiling module xil_defaultlib.data_wr_mux_unit
+Compiling module xil_defaultlib.csr_data_mux_unit
+Compiling module xil_defaultlib.mstatus_reg
+Compiling module xil_defaultlib.misa_and_pre_data
+Compiling module xil_defaultlib.mie_reg
+Compiling module xil_defaultlib.mtvec_reg
+Compiling module xil_defaultlib.mepc_and_mscratch_reg
+Compiling module xil_defaultlib.mcause_reg
+Compiling module xil_defaultlib.mip_reg
+Compiling module xil_defaultlib.mtval_reg
+Compiling module xil_defaultlib.machine_counter_setup
+Compiling module xil_defaultlib.machine_counter
+Compiling module xil_defaultlib.msrv32_csr_file
+Compiling module xil_defaultlib.msrv32_reg_block2
+Compiling module xil_defaultlib.store_unit
+Compiling module xil_defaultlib.load_unit
+Compiling module xil_defaultlib.ALU
+Compiling module xil_defaultlib.wb_mux_sel_unit
+Compiling module xil_defaultlib.fwrite_file1
+Compiling module xil_defaultlib.RISCV_32I_TOP
+Compiling module xil_defaultlib.I_cache_default
+Compiling module xil_defaultlib.D_cache_default
+Compiling module xil_defaultlib.RISCV_test_top
+Compiling module xil_defaultlib.test_top_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot test_top_tb_behav

@@ -1,0 +1,54 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/verilog_11/project_15RISC_V_3Stage_Final/project_15RISC_V_3Stage_Final.srcs/sources_1/new/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/verilog_11/project_15RISC_V_3Stage_Final/project_15RISC_V_3Stage_Final.srcs/sources_1/new/RISCV_32I_TOP.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RISCV_32I_TOP
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/verilog_11/project_15RISC_V_3Stage_Final/project_15RISC_V_3Stage_Final.srcs/sources_1/new/RISCV_test_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RISCV_test_top
+INFO: [VRFC 10-311] analyzing module D_cache
+INFO: [VRFC 10-311] analyzing module I_cache
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/verilog_11/project_15RISC_V_3Stage_Final/project_15RISC_V_3Stage_Final.srcs/sources_1/new/Reg_bank_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Reg_bank_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/verilog_11/project_15RISC_V_3Stage_Final/project_15RISC_V_3Stage_Final.srcs/sources_1/new/branch_unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module branch_unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/verilog_11/project_15RISC_V_3Stage_Final/project_15RISC_V_3Stage_Final.srcs/sources_1/new/fwrite_file1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fwrite_file1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/verilog_11/project_15RISC_V_3Stage_Final/project_15RISC_V_3Stage_Final.srcs/sources_1/new/imm_adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module imm_adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/verilog_11/project_15RISC_V_3Stage_Final/project_15RISC_V_3Stage_Final.srcs/sources_1/new/imm_generetor.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module imm_generetor
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/verilog_11/project_15RISC_V_3Stage_Final/project_15RISC_V_3Stage_Final.srcs/sources_1/new/instruction_mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module instruction_mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/verilog_11/project_15RISC_V_3Stage_Final/project_15RISC_V_3Stage_Final.srcs/sources_1/new/load_unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module load_unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/verilog_11/project_15RISC_V_3Stage_Final/project_15RISC_V_3Stage_Final.srcs/sources_1/new/machine_control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module machine_control
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/verilog_11/project_15RISC_V_3Stage_Final/project_15RISC_V_3Stage_Final.srcs/sources_1/new/msrv32_csr_file.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module msrv32_csr_file
+INFO: [VRFC 10-311] analyzing module mstatus_reg
+INFO: [VRFC 10-311] analyzing module mtval_reg
+INFO: [VRFC 10-311] analyzing module mtvec_reg
+INFO: [VRFC 10-311] analyzing module csr_data_mux_unit
+INFO: [VRFC 10-311] analyzing module data_wr_mux_unit
+INFO: [VRFC 10-311] analyzing module machine_counter
+INFO: [VRFC 10-311] analyzing module machine_counter_setup
+INFO: [VRFC 10-311] analyzing module mcause_reg
+INFO: [VRFC 10-311] analyzing module mepc_and_mscratch_reg
+INFO: [VRFC 10-311] analyzing module mie_reg
+INFO: [VRFC 10-311] analyzing module mip_reg
+INFO: [VRFC 10-311] analyzing module misa_and_pre_data
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/verilog_11/project_15RISC_V_3Stage_Final/project_15RISC_V_3Stage_Final.srcs/sources_1/new/msrv32_decoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module msrv32_decoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/verilog_11/project_15RISC_V_3Stage_Final/project_15RISC_V_3Stage_Final.srcs/sources_1/new/msrv32_integer_file.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module msrv32_integer_file
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/verilog_11/project_15RISC_V_3Stage_Final/project_15RISC_V_3Stage_Final.srcs/sources_1/new/msrv32_reg_block2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module msrv32_reg_block2
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/verilog_11/project_15RISC_V_3Stage_Final/project_15RISC_V_3Stage_Final.srcs/sources_1/new/pc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pc
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/verilog_11/project_15RISC_V_3Stage_Final/project_15RISC_V_3Stage_Final.srcs/sources_1/new/store_unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module store_unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/verilog_11/project_15RISC_V_3Stage_Final/project_15RISC_V_3Stage_Final.srcs/sources_1/new/wb_mux_sel_unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module wb_mux_sel_unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/verilog_11/project_15RISC_V_3Stage_Final/project_15RISC_V_3Stage_Final.srcs/sources_1/new/write_enable_gen.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module write_enable_gen
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/verilog_11/project_15RISC_V_3Stage_Final/project_15RISC_V_3Stage_Final.srcs/sim_1/new/test_top_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test_top_tb
